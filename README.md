@@ -133,3 +133,6 @@ stream type.
 
 <!-- handsoff-issue-28 -->
 - #28: Test: every read function returns `StreamNotFound` for an unknown id
+
+<!-- handsoff-issue-4 -->
+- #4: Assert the exact error in `test_cancel_rejected_for_non_sender`

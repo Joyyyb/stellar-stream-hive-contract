@@ -136,3 +136,6 @@ stream type.
 
 <!-- handsoff-issue-4 -->
 - #4: Assert the exact error in `test_cancel_rejected_for_non_sender`
+
+<!-- handsoff-issue-5 -->
+- #5: Assert the exact error in `test_cancel_rejected_after_completion`
